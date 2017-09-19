@@ -1,0 +1,11 @@
+C:\TaskManager\src\TaskManager.RegistryCommon\bin\Debug\netstandard2.0\TaskManager.RegistryCommon.deps.json
+C:\TaskManager\src\TaskManager.RegistryCommon\bin\Debug\netstandard2.0\TaskManager.RegistryCommon.dll
+C:\TaskManager\src\TaskManager.RegistryCommon\bin\Debug\netstandard2.0\TaskManager.RegistryCommon.pdb
+C:\TaskManager\src\TaskManager.RegistryCommon\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.dll
+C:\TaskManager\src\TaskManager.RegistryCommon\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.xml
+C:\TaskManager\src\TaskManager.RegistryCommon\obj\Debug\netstandard2.0\TaskManager.RegistryCommon.csproj.CoreCompileInputs.cache
+C:\TaskManager\src\TaskManager.RegistryCommon\obj\Debug\netstandard2.0\TaskManager.RegistryCommon.AssemblyInfoInputs.cache
+C:\TaskManager\src\TaskManager.RegistryCommon\obj\Debug\netstandard2.0\TaskManager.RegistryCommon.AssemblyInfo.cs
+C:\TaskManager\src\TaskManager.RegistryCommon\obj\Debug\netstandard2.0\TaskManager.RegistryCommon.dll
+C:\TaskManager\src\TaskManager.RegistryCommon\obj\Debug\netstandard2.0\TaskManager.RegistryCommon.pdb
+C:\TaskManager\src\TaskManager.RegistryCommon\obj\Debug\netstandard2.0\TaskManager.RegistryCommon.csprojResolveAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\TaskManager\src\TaskManager.Domain.Tasks\bin\Debug\netstandard2.0\TaskManager.Domain.Tasks.deps.json
+C:\TaskManager\src\TaskManager.Domain.Tasks\bin\Debug\netstandard2.0\TaskManager.Domain.Tasks.dll
+C:\TaskManager\src\TaskManager.Domain.Tasks\bin\Debug\netstandard2.0\TaskManager.Domain.Tasks.pdb
+C:\TaskManager\src\TaskManager.Domain.Tasks\obj\Debug\netstandard2.0\TaskManager.Domain.Tasks.csprojResolveAssemblyReference.cache
+C:\TaskManager\src\TaskManager.Domain.Tasks\obj\Debug\netstandard2.0\TaskManager.Domain.Tasks.csproj.CoreCompileInputs.cache
+C:\TaskManager\src\TaskManager.Domain.Tasks\obj\Debug\netstandard2.0\TaskManager.Domain.Tasks.AssemblyInfoInputs.cache
+C:\TaskManager\src\TaskManager.Domain.Tasks\obj\Debug\netstandard2.0\TaskManager.Domain.Tasks.AssemblyInfo.cs
+C:\TaskManager\src\TaskManager.Domain.Tasks\obj\Debug\netstandard2.0\TaskManager.Domain.Tasks.dll
+C:\TaskManager\src\TaskManager.Domain.Tasks\obj\Debug\netstandard2.0\TaskManager.Domain.Tasks.pdb
+C:\TaskManager\src\TaskManager.Domain.Tasks\bin\Debug\netstandard2.0\TaskManager.RegistryCommon.dll
+C:\TaskManager\src\TaskManager.Domain.Tasks\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.dll
+C:\TaskManager\src\TaskManager.Domain.Tasks\bin\Debug\netstandard2.0\TaskManager.RegistryCommon.pdb
+C:\TaskManager\src\TaskManager.Domain.Tasks\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.xml

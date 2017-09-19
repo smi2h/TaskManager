@@ -1,0 +1,9 @@
+C:\TaskManager\src\TaskManager.Universal.DateTime\bin\Debug\netstandard2.0\TaskManager.Universal.DateTime.deps.json
+C:\TaskManager\src\TaskManager.Universal.DateTime\bin\Debug\netstandard2.0\TaskManager.Universal.DateTime.dll
+C:\TaskManager\src\TaskManager.Universal.DateTime\bin\Debug\netstandard2.0\TaskManager.Universal.DateTime.pdb
+C:\TaskManager\src\TaskManager.Universal.DateTime\obj\Debug\netstandard2.0\TaskManager.Universal.DateTime.csprojResolveAssemblyReference.cache
+C:\TaskManager\src\TaskManager.Universal.DateTime\obj\Debug\netstandard2.0\TaskManager.Universal.DateTime.csproj.CoreCompileInputs.cache
+C:\TaskManager\src\TaskManager.Universal.DateTime\obj\Debug\netstandard2.0\TaskManager.Universal.DateTime.AssemblyInfoInputs.cache
+C:\TaskManager\src\TaskManager.Universal.DateTime\obj\Debug\netstandard2.0\TaskManager.Universal.DateTime.AssemblyInfo.cs
+C:\TaskManager\src\TaskManager.Universal.DateTime\obj\Debug\netstandard2.0\TaskManager.Universal.DateTime.dll
+C:\TaskManager\src\TaskManager.Universal.DateTime\obj\Debug\netstandard2.0\TaskManager.Universal.DateTime.pdb

@@ -1,0 +1,11 @@
+﻿[
+  {
+    "outputFileName": "wwwroot/js/angular/tasks-module/bundles/tasks-module-bundle.js",
+    "inputFiles": [
+      "wwwroot/js/angular/tasks-module/_init.js",
+      "wwwroot/js/angular/tasks-module/*.js",
+      "!wwwroot/js/angular/tasks-module/bundles/*.js",
+      "!wwwroot/js/angular/tasks-module/routes.js"
+    ]
+  }
+]

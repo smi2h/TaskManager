@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TaskManager.DataLayer.EntityFramework\TaskManager.DataLayer.EntityFramework.csproj" />
+    <ProjectReference Include="..\TaskManager.DataLayer\TaskManager.DataLayer.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,15 @@
+#:C:\TaskManager\src\TaskManager.Api.Rest\TaskManager.Api.Rest.xproj
+C:\TaskManager\src\TaskManager.Api.Rest\TaskManager.Api.Rest.xproj|C:\TaskManager\src\TaskManager.DataLayer\TaskManager.DataLayer.xproj
+C:\TaskManager\src\TaskManager.Api.Rest\TaskManager.Api.Rest.xproj|C:\TaskManager\src\TaskManager.DataLayer.Tasks\TaskManager.DataLayer.Tasks.xproj
+C:\TaskManager\src\TaskManager.Api.Rest\TaskManager.Api.Rest.xproj|C:\TaskManager\src\TaskManager.Domain.TasksImpl\TaskManager.Domain.TasksImpl.xproj
+C:\TaskManager\src\TaskManager.Api.Rest\TaskManager.Api.Rest.xproj|C:\TaskManager\src\TaskManager.HostHelper\TaskManager.HostHelper.xproj
+C:\TaskManager\src\TaskManager.Api.Rest\TaskManager.Api.Rest.xproj|C:\TaskManager\src\TaskManager.Universal.DateTime\TaskManager.Universal.DateTime.xproj
+C:\TaskManager\src\TaskManager.DataLayer.Tasks\TaskManager.DataLayer.Tasks.xproj|C:\TaskManager\src\TaskManager.DataLayer\TaskManager.DataLayer.xproj
+C:\TaskManager\src\TaskManager.DataLayer.Tasks\TaskManager.DataLayer.Tasks.xproj|C:\TaskManager\src\TaskManager.Domain.Tasks\TaskManager.Domain.Tasks.xproj
+C:\TaskManager\src\TaskManager.DataLayer.Tasks\TaskManager.DataLayer.Tasks.xproj|C:\TaskManager\src\TaskManager.Universal.DateTime\TaskManager.Universal.DateTime.xproj
+C:\TaskManager\src\TaskManager.Domain.TasksImpl\TaskManager.Domain.TasksImpl.xproj|C:\TaskManager\src\TaskManager.DataLayer.Tasks\TaskManager.DataLayer.Tasks.xproj
+C:\TaskManager\src\TaskManager.Domain.TasksImpl\TaskManager.Domain.TasksImpl.xproj|C:\TaskManager\src\TaskManager.DataLayer.TransactionManagement\TaskManager.DataLayer.TransactionManagement.xproj
+C:\TaskManager\src\TaskManager.Domain.TasksImpl\TaskManager.Domain.TasksImpl.xproj|C:\TaskManager\src\TaskManager.Domain.Tasks\TaskManager.Domain.Tasks.xproj
+C:\TaskManager\src\TaskManager.DataLayer.TransactionManagement\TaskManager.DataLayer.TransactionManagement.xproj|C:\TaskManager\src\TaskManager.DataLayer.EntityFramework\TaskManager.DataLayer.EntityFramework.xproj
+C:\TaskManager\src\TaskManager.DataLayer.EntityFramework\TaskManager.DataLayer.EntityFramework.xproj|C:\TaskManager\src\TaskManager.DataLayer\TaskManager.DataLayer.xproj
+C:\TaskManager\src\TaskManager.DataLayer.EntityFramework\TaskManager.DataLayer.EntityFramework.xproj|C:\TaskManager\src\TaskManager.DataLayer.Tasks\TaskManager.DataLayer.Tasks.xproj

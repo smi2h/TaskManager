@@ -1,0 +1,11 @@
+C:\TaskManager\src\TaskManager.WebUI\bin\Debug\netcoreapp2.0\TaskManager.WebUI.deps.json
+C:\TaskManager\src\TaskManager.WebUI\bin\Debug\netcoreapp2.0\TaskManager.WebUI.runtimeconfig.json
+C:\TaskManager\src\TaskManager.WebUI\bin\Debug\netcoreapp2.0\TaskManager.WebUI.runtimeconfig.dev.json
+C:\TaskManager\src\TaskManager.WebUI\bin\Debug\netcoreapp2.0\TaskManager.WebUI.dll
+C:\TaskManager\src\TaskManager.WebUI\bin\Debug\netcoreapp2.0\TaskManager.WebUI.pdb
+C:\TaskManager\src\TaskManager.WebUI\obj\Debug\netcoreapp2.0\TaskManager.WebUI.csprojResolveAssemblyReference.cache
+C:\TaskManager\src\TaskManager.WebUI\obj\Debug\netcoreapp2.0\TaskManager.WebUI.csproj.CoreCompileInputs.cache
+C:\TaskManager\src\TaskManager.WebUI\obj\Debug\netcoreapp2.0\TaskManager.WebUI.AssemblyInfoInputs.cache
+C:\TaskManager\src\TaskManager.WebUI\obj\Debug\netcoreapp2.0\TaskManager.WebUI.AssemblyInfo.cs
+C:\TaskManager\src\TaskManager.WebUI\obj\Debug\netcoreapp2.0\TaskManager.WebUI.dll
+C:\TaskManager\src\TaskManager.WebUI\obj\Debug\netcoreapp2.0\TaskManager.WebUI.pdb

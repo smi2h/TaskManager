@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TaskManager.DataLayer.Tasks\TaskManager.DataLayer.Tasks.csproj" />
+    <ProjectReference Include="..\TaskManager.DataLayer.TransactionManagement\TaskManager.DataLayer.TransactionManagement.csproj" />
+    <ProjectReference Include="..\TaskManager.Domain.Tasks\TaskManager.Domain.Tasks.csproj" />
+  </ItemGroup>
+
+</Project>

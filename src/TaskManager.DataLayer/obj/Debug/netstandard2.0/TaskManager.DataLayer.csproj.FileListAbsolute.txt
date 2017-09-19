@@ -1,0 +1,15 @@
+C:\TaskManager\src\TaskManager.DataLayer\bin\Debug\netstandard2.0\TaskManager.DataLayer.deps.json
+C:\TaskManager\src\TaskManager.DataLayer\bin\Debug\netstandard2.0\TaskManager.DataLayer.dll
+C:\TaskManager\src\TaskManager.DataLayer\bin\Debug\netstandard2.0\TaskManager.DataLayer.pdb
+C:\TaskManager\src\TaskManager.DataLayer\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+C:\TaskManager\src\TaskManager.DataLayer\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\TaskManager\src\TaskManager.DataLayer\bin\Debug\netstandard2.0\System.Security.dll
+C:\TaskManager\src\TaskManager.DataLayer\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.xml
+C:\TaskManager\src\TaskManager.DataLayer\bin\Debug\netstandard2.0\System.Configuration.xml
+C:\TaskManager\src\TaskManager.DataLayer\bin\Debug\netstandard2.0\System.Security.xml
+C:\TaskManager\src\TaskManager.DataLayer\obj\Debug\netstandard2.0\TaskManager.DataLayer.csprojResolveAssemblyReference.cache
+C:\TaskManager\src\TaskManager.DataLayer\obj\Debug\netstandard2.0\TaskManager.DataLayer.csproj.CoreCompileInputs.cache
+C:\TaskManager\src\TaskManager.DataLayer\obj\Debug\netstandard2.0\TaskManager.DataLayer.AssemblyInfoInputs.cache
+C:\TaskManager\src\TaskManager.DataLayer\obj\Debug\netstandard2.0\TaskManager.DataLayer.AssemblyInfo.cs
+C:\TaskManager\src\TaskManager.DataLayer\obj\Debug\netstandard2.0\TaskManager.DataLayer.dll
+C:\TaskManager\src\TaskManager.DataLayer\obj\Debug\netstandard2.0\TaskManager.DataLayer.pdb

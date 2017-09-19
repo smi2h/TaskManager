@@ -1,0 +1,9 @@
+C:\TaskManager\src\TaskManager.HostHelper\bin\Debug\netstandard2.0\TaskManager.HostHelper.deps.json
+C:\TaskManager\src\TaskManager.HostHelper\bin\Debug\netstandard2.0\TaskManager.HostHelper.dll
+C:\TaskManager\src\TaskManager.HostHelper\bin\Debug\netstandard2.0\TaskManager.HostHelper.pdb
+C:\TaskManager\src\TaskManager.HostHelper\obj\Debug\netstandard2.0\TaskManager.HostHelper.csprojResolveAssemblyReference.cache
+C:\TaskManager\src\TaskManager.HostHelper\obj\Debug\netstandard2.0\TaskManager.HostHelper.csproj.CoreCompileInputs.cache
+C:\TaskManager\src\TaskManager.HostHelper\obj\Debug\netstandard2.0\TaskManager.HostHelper.AssemblyInfoInputs.cache
+C:\TaskManager\src\TaskManager.HostHelper\obj\Debug\netstandard2.0\TaskManager.HostHelper.AssemblyInfo.cs
+C:\TaskManager\src\TaskManager.HostHelper\obj\Debug\netstandard2.0\TaskManager.HostHelper.dll
+C:\TaskManager\src\TaskManager.HostHelper\obj\Debug\netstandard2.0\TaskManager.HostHelper.pdb
